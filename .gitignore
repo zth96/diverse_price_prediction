@@ -48,5 +48,6 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-# Ignore data folder
+# Ignore data folder and current model
+model/Price_Sub_Model.R
 data/
